@@ -29,4 +29,4 @@ The project is organized as follows:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/hentzrafael/resnet50-illegal-mining.git
+   git clone https://github.com/sharma-estinno/sempas-v1
